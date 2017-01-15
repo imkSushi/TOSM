@@ -1,0 +1,6 @@
+author = imkSushi
+version = 0.0.0
+displayName = The Open Source Mod
+homepage = https://forums.terraria.org/index.php?threads/the-open-source-mod.53932/
+includeSource = true
+buildIgnore = .git/*, README.md, Recipes.xlsx
